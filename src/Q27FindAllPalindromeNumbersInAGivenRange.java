@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Q28FindAllPalindromeNumbersInAGivenRange {
+public class Q27FindAllPalindromeNumbersInAGivenRange {
 
     private static boolean isPalindrome(int num){
         int temp = num;

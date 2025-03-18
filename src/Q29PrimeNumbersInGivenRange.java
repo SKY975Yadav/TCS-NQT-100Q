@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Q30PrimeNumbersInGivenRange {
+public class Q29PrimeNumbersInGivenRange {
     public static ArrayList<Integer> primeNumbersInGivenRange(int min,int max){
         ArrayList<Integer> res = new ArrayList<>();
         for (int i = min; i <= max; i++) {

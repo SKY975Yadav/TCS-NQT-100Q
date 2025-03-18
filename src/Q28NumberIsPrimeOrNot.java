@@ -1,4 +1,4 @@
-public class Q29NumberIsPrimeOrNot {
+public class Q28NumberIsPrimeOrNot {
     public static boolean isPrime(int n){
         if (n < 2) return false; // Handle negative numbers, 0, and 1
         if (n == 2 || n ==3) return true;

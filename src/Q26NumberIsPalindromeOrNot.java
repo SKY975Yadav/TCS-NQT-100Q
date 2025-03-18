@@ -19,7 +19,7 @@ Input:N = 7789
 Output: Not Palindrome
 Explanation: The reverse of number 7789 is 9877 and therefore it is not palindrome
  */
-public class Q27NumberIsPalindromeOrNot {
+public class Q26NumberIsPalindromeOrNot {
 
     public static boolean isPalindrome(int num){
         int temp = num;

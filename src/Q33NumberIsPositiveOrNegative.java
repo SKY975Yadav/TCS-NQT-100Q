@@ -1,4 +1,4 @@
-public class Q34NumberIsPositiveOrNegative {
+public class Q33NumberIsPositiveOrNegative {
 
     public static void isPositiveOrNegative(int n){
         if (n<0) System.out.println("Negative");

@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class Q26ArrayIsSubsetOfAnotherArrayOrNot {
+public class Q25ArrayIsSubsetOfAnotherArrayOrNot {
 
     public static boolean isSubset(int [] A,int [] B){
         // Check whether B is Subset of A or not ,yes if all elements of B is present in A,Note: Array elements are assumed to be unique.

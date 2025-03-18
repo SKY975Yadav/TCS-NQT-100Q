@@ -1,4 +1,4 @@
-public class Q25SearchInArray {
+public class Q24SearchInArray {
 
     // linear search
     public static int linearSearch(int [] arr,int key){

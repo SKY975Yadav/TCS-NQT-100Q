@@ -15,7 +15,7 @@ Input:N = 371
 Output: True
 Explanation: 3^3+5^3+1^3 = 27 + 343 + 1 = 371
  */
-public class Q31NumberIsArmstrongOrNot {
+public class Q30NumberIsArmstrongOrNot {
     public static boolean isArmStrong(int n) {
 //        int noOfDigits = String.valueOf(n).length(); if allow
         int noOfDigits = digits(n);

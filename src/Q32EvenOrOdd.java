@@ -1,4 +1,4 @@
-public class Q33EvenOrOdd {
+public class Q32EvenOrOdd {
 
     public static void evenOrOdd(int n){
         if (n%2==0) System.out.println("Even");

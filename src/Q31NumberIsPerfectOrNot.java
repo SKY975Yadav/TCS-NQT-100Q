@@ -19,7 +19,7 @@ Output: 28 is a perfect number
 Reason:
 For 6 and 28 , the sum of their proper divisors (1+2+3) and (1+2+4+7+14) is equal to the respective numbers and for 15 it is not.
  */
-public class Q32NumberIsPerfectOrNot {
+public class Q31NumberIsPerfectOrNot {
     public static boolean isPerfect(int n){
         if (n<=1) return false;
         int sum = 1;

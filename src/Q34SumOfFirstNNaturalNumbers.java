@@ -1,4 +1,4 @@
-public class Q35SumOfFirstNNaturalNumbers {
+public class Q34SumOfFirstNNaturalNumbers {
 
     public static int sumOfFirstNNaturalNumbers(int n){
         int sum=0;
